@@ -15,9 +15,7 @@ for(i;i<n/2;i++){
 if(i== ~~(n/2+1))
     console.log(str + " is a Palindrome")
 }
-Palindrome('malayalam')
-Palindrome('Madam')
-Palindrome('Krishna')
-Palindrome(' ')
+Palindrome(prompt("Enter a string to check whether it is Palindrome"));
+
 
 
