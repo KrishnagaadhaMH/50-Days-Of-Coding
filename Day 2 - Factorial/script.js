@@ -6,4 +6,4 @@ function factorial(num){
         return 1;
     }
 }
-console.log(factorial(10));
+console.log(factorial(prompt("Enter a number to find the Factoral")));
