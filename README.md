@@ -10,3 +10,7 @@ Day 3 - JavaScript program to check if a given number is an Armstrong number.
 
 
 Day 4 - JavaScript function to generate the Fibonacci sequence up to a given number of terms.
+
+Day 5 - JavaScript program to find the sum of all prime numbers up to a given number.
+
+Day 6 - JavaScript program to reverse the digits of a given number.
