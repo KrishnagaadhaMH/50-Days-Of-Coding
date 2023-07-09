@@ -1,4 +1,4 @@
-# 50-Days-Of-Coding
+# 51-Days-Of-Coding
 
 Day 1 - JavaScript function to check if a given string is a palindrome.
 
