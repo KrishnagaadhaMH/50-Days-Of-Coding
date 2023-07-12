@@ -20,4 +20,8 @@ Day 6 - JavaScript program to reverse the digits of a given number.
 
 Day 7 - JavaScript function to check if a given number is a perfect number.
 
+
 Day 8 - JavaScript program to find the largest and smallest elements in an array.
+
+
+Day 9 - JavaScript function to find the GCD (Greatest Common Divisor) of two numbers.
