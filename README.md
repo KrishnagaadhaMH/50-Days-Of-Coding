@@ -25,3 +25,5 @@ Day 8 - JavaScript program to find the largest and smallest elements in an array
 
 
 Day 9 - JavaScript function to find the GCD (Greatest Common Divisor) of two numbers.
+
+Day 10 - Bonus Question. 
