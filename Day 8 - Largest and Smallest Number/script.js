@@ -1,5 +1,5 @@
 let arr = prompt("Enter an array of numbers: ");
-arr = arr.split(" ");
+arr = arr.split(" ").map(Number);
 const len = arr.length;
 var la = arr[0];
 var sm = arr[0];
