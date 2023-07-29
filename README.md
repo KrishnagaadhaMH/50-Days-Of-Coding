@@ -33,3 +33,28 @@ Day 11 - First NonRepeating Character.
 Day 12 - Total number of votes.
 
 Day 13 - Sum of Multiples.
+
+Day 14 - Most Common Character.
+
+Day 15 - Second Largest Number.
+
+Day 16 - Sorting an array of Strings
+
+Day 17 - A function that takes an array of objects with name and age properties, and returns an array of objects with only the names of people who are between 20 and 30 years old.
+
+
+Day 18 - Sum of Squares of Even Numbers.
+
+Day 19 - Number of Words in a String.
+
+Day 20 - String with most Vowels.
+
+Day 21 - Array of Perfect Squares.
+
+Day 22 - A function that takes an array of objects with name and age properties, and returns an array of objects with only the names of people who are between 20 and 30 years old.
+
+Day 23 - A function that takes an array of objects with name and score properties, and returns the name of the person with the highest score.
+
+Day 24 - 
+
+Day 25 - 
