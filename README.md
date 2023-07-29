@@ -55,6 +55,6 @@ Day 22 - A function that takes an array of objects with name and age properties,
 
 Day 23 - A function that takes an array of objects with name and score properties, and returns the name of the person with the highest score.
 
-Day 24 - 
+Day 24 - Array of Reversed Strings.
 
-Day 25 - 
+Day 25 - Array of Shortest Strings.
